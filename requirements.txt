@@ -1,3 +1,6 @@
 easyocr
 matplotlib
 opencv-python-headless
+
+pytesseract
+pillow

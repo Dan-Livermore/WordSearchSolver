@@ -30,7 +30,7 @@ def Preproceesing(img):
 
 
 # Read the image
-image_path = 'trainingimages/5x5_3.jpg'
+image_path = 'trainingimages/5x5_2.png'
 img = cv2.imread(image_path)
 cleaned_img = Preproceesing(img)
 
